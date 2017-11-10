@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Powervision</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="SECTION_1">PRODUCTS</string>
+    <string name="SECTION_2">SERVICES</string>
+    <string name="SECTION_3">ABOUT US</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="form1">Your Name</string>
+    <string name="form2">Your Email</string>
+    <string name="form3">Subject</string>
+    <string name="form4">Message</string>
+    <string name="form5">SEND</string>
+
+
+</resources>
